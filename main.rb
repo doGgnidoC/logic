@@ -1,6 +1,6 @@
 # Logic Operators Program in Ruby
 
-puts "p q and or xor nand nor"; #Header row
+puts "p q 0 And andNot p rImpl q Xor Or Nor Eq ~q Impl ~p notAnd Nand 1"; #Header row
 
 # ".to_S" 'hard types' a character string to a String.
 
